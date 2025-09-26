@@ -1,4 +1,4 @@
-#Home_Spot – 부동산 거래 웹 서비스 (Node.js + MySQL)
+# Home_Spot – 부동산 거래 웹 서비스 (Node.js + MySQL)
 Admin/Agent/Tenant 멀티 롤을 가진 부동산 거래 플랫폼입니다.
 매물 등록·승인·검색·대시보드, 중개사 승인(자격증 업로드) 및 승인/거절 자동 메일(AWS SES), 실시간 1:1 채팅(Socket.IO), CSV 내보내기(UTF-8 BOM) 등 운영에 필요한 전 기능 흐름을 구현했습니다.
 
