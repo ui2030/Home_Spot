@@ -456,8 +456,10 @@ router.post('/admin/agents/decision', async (req, res) => {
 
 **ㆍ**🔧 Maintainer: Cheonui Kim / kimcjsdml@gmail.com
 
-**ㆍ**저장소: https://github.com/ui2030/Home_Spot
+**ㆍ**🔧 저장소: https://github.com/ui2030/Home_Spot
 
 ## 참고
 
 **ㆍ** README에 있는 시연 영상은 (YouTube) 링크가 포함되어 있습니다.
+
+**ㆍ** 웹 서비스 시연은 2배속이 걸려있습니다.
