@@ -104,9 +104,15 @@ JWT_SECRET=change_me_too
 
 **ㆍ**npm i
 
+**ㆍ**cd home_spot-main
+
 **ㆍ**npm run start   # 또는 npm run dev
 
-**ㆍ**콘솔 로그 예: [DB] ping ok: { '1': 1 } / Server running at http://localhost:3000
+**ㆍ**cd home_spot-main/home_spot-chatbot
+
+**ㆍ**npm start   # 또는 npm dev
+
+**ㆍ**콘솔 로그 예: [DB] ping ok: { '1': 1 } / Server running at http://localhost:3000 || http://localhost:4000
 
 ## DB 스키마
 ```sql
