@@ -14,8 +14,10 @@ winget install OpenJS.NodeJS.LTS
 npm -v
 cd C:\cs-bot-api
 npm i
-$env:MODEL=my-cs-bot-3b
-$env:OLLAMA_HOST=http://localhost:11434
+$env:MODEL=my-cs-bot-3b or 
+set MODEL=my-cs-bot-3b
+$env:OLLAMA_HOST=http://localhost:11434 or
+set OLLAMA_HOST=http://localhost:11434
 npm start     :: (= node server.js)
 
 --------api 해제------------------
