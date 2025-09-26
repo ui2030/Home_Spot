@@ -419,7 +419,7 @@ export const pool = mysql.createPool({ host: process.env.DB_HOST, user: process.
 const [[ping]] = await pool.query('SELECT 1 AS `1`');
 console.log('[DB] ping ok:', ping);
 
-// routes/admin.js — 승인/거절(핵심 로직 요지)
+// routes/admin.js — 승인/거절
 router.post('/admin/agents/decision', async (req, res) => {
   const { agent_id, decision } = req.body;                  // approve | reject
   const conn = await pool.getConnection();
