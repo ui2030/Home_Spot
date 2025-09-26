@@ -4,7 +4,7 @@ Admin/Agent/Tenant 멀티 롤을 가진 부동산 거래 플랫폼입니다.
 
 🔧 시연 영상 링크 :
 
-[웹 서비스 시연]()
+[웹 서비스 시연](https://youtu.be/SRPSOafP6xw)
 
 ## 핵심 기능
 
