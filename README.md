@@ -49,7 +49,7 @@ Admin/Agent/Tenant 멀티 롤을 가진 부동산 거래 플랫폼입니다.
 
 **ㆍ**Framework/Libs: Express, multer, bcrypt, JSON Web Token, express-session, Socket.IO, csv-writer(or stream)
 
-**ㆍ**Infra/Others: AWS SES, dotenv, (선택) Nginx/PM2
+**ㆍ**Infra/Others: AWS SES, dotenv
 
 ## 폴더 구조
 ```css
