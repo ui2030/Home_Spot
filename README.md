@@ -8,7 +8,7 @@ Admin/Agent/Tenant 멀티 롤을 가진 부동산 거래 플랫폼입니다.
 
 ## 핵심 기능
 
-###인증/권한
+### 인증/권한
 
 **ㆍ**bcrypt 해시 저장, httpOnly 세션 + JWT 병행
 
